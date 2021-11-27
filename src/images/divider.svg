@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="422px" height="27px" viewBox="0 0 422 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-264.000000, -219.000000)">
+            <g id="Group" transform="translate(264.000000, 221.893398)">
+                <line x1="0.5" y1="10.6066017" x2="421.5" y2="10.6066017" id="Line" stroke="#F66205" stroke-linecap="square"></line>
+                <rect id="Rectangle" stroke="#2E2020" stroke-width="4" fill="#F66205" transform="translate(207.500000, 10.606602) rotate(45.000000) translate(-207.500000, -10.606602) " x="200" y="3.10660172" width="15" height="15"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
